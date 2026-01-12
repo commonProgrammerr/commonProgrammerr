@@ -2,7 +2,7 @@
 
 I'm a Brazilian Computer Engineering student focused on embedded systems and low-level development. I work on building reliable software for hardware, from custom Linux distributions to firmware development.
 
-### 🛠️ Things I work with
+### Things I work with
 
 Languages: 
   - C/C++ (my comfort zone)
@@ -17,20 +17,20 @@ Tools & Platforms:
   - Snapcraft (for packaging)
 
 
-### 🎓 Learning & Growing
+### Learning & Growing
 
 - **Computer Engineering @ Universidade de Pernambuco** (graduating 2026)
 - **Python Course @ Linuxtips** – 66 hours of Python goodness
 - **Constantly learning** – Currently diving deeper into Rust and robotics!
 
 
-### 📈 GitHub Activity
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=commonProgrammerr&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=commonProgrammerr&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+### GitHub Activity
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=commonProgrammerr&theme=darcula)
+<div align="left">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=commonProgrammerr&theme=darcula"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=commonProgrammerr&theme=darcula"/>
 </div>
 
-### 💡 Interests
+### Interests
 
 Embedded systems, robotics and cats.
