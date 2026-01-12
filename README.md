@@ -31,13 +31,6 @@ Tools & Platforms:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=commonProgrammerr&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </div>
 
-
-### 📫 Contact
-
-**Email:** gustavo.escore@gmail.com  
-**Linkedin:** [andreescorel](https://www.linkedin.com/in/andreescorel/)
-
-
 ### 💡 Interests
 
 Embedded systems, robotics and cats.
